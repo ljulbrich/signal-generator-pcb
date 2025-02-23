@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=U2 Old Footprint=SOP12 New Footprint=SOP14
+Added Pin To Net: NetName=NetR31_1 Pin=U2-14

@@ -1,0 +1,35 @@
+Change Component Description : Designator=J3 Old Description=28-Pin, 16KB Flash, 4KB RAM, 12 MIPS, nanoWatt New Description=28-Pin, 16KB Flash, 4KB RAM, 12 MIPS, nanoWatt | Microchip Technology Inc. PIC18F24J11-I/SP
+Added Component: Designator=TP1(Test_point_1)
+Added Component: Designator=TP2(Test_point_1)
+Added Component: Designator=TP3(Test_point_1)
+Added Component: Designator=TP4(Test_point_1)
+Added Component: Designator=TP5(Test_point_1)
+Added Component: Designator=TP6(Test_point_1)
+Added Component: Designator=TP7(Test_point_1)
+Added Component: Designator=TP8(Test_point_1)
+Added Component: Designator=TP9(Test_point_1)
+Added Component: Designator=TP10(Test_point_1)
+Added Pin To Net: NetName=TP1 Pin=TP1-TP1
+Added Pin To Net: NetName=TP2 Pin=TP2-TP1
+Added Pin To Net: NetName=TP3 Pin=TP3-TP1
+Added Pin To Net: NetName=TP4 Pin=TP4-TP1
+Added Pin To Net: NetName=TP5 Pin=TP5-TP1
+Added Pin To Net: NetName=TP6 Pin=TP6-TP1
+Added Pin To Net: NetName=TP7 Pin=TP7-TP1
+Added Pin To Net: NetName=TP8 Pin=TP8-TP1
+Added Pin To Net: NetName=TP9 Pin=TP9-TP1
+Added Pin To Net: NetName=TP10 Pin=TP10-TP1
+Change Net Name : Old Net Name=TP2 New Net Name=GND
+Change Net Name : Old Net Name=TP3 New Net Name=+3.3
+Change Net Name : Old Net Name=TP4 New Net Name=-12
+Change Net Name : Old Net Name=TP5 New Net Name=+12
+Added Member To Class: ClassName=Power management Member=Component TP1 TP_1
+Added Member To Class: ClassName=Power management Member=Component TP2 TP_1
+Added Member To Class: ClassName=Power management Member=Component TP3 TP_1
+Added Member To Class: ClassName=Power management Member=Component TP4 TP_1
+Added Member To Class: ClassName=Power management Member=Component TP5 TP_1
+Added Member To Class: ClassName=Power management Member=Component TP6 TP_1
+Added Member To Class: ClassName=Power management Member=Component TP7 TP_1
+Added Member To Class: ClassName=Power management Member=Component TP8 TP_1
+Added Member To Class: ClassName=Power management Member=Component TP9 TP_1
+Added Member To Class: ClassName=Power management Member=Component TP10 TP_1

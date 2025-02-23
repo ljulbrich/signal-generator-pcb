@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=DIN-01 Pin=J4-8
+Removed Pin From Net: NetName=DIN-03 Pin=J4-10
+Change Component Description : Designator=J3 Old Description=28-Pin, 16KB Flash, 4KB RAM, 12 MIPS, nanoWatt New Description=28-Pin, 16KB Flash, 4KB RAM, 12 MIPS, nanoWatt | Microchip Technology Inc. PIC18F24J11-I/SP
+Added Pin To Net: NetName=DIN-03 Pin=J4-8
+Added Pin To Net: NetName=DIN-01 Pin=J4-10
+Change Net Name : Old Net Name=TP6 New Net Name=Y_P
+Change Net Name : Old Net Name=TP7 New Net Name=Y_N
+Added Differential Pair: Name=Y

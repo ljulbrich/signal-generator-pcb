@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=3.3V Pin=A1-10
+Removed Pin From Net: NetName=3.3V Pin=C11-1
+Removed Pin From Net: NetName=3.3V Pin=C12-2
+Removed Pin From Net: NetName=3.3V Pin=C13-2
+Removed Pin From Net: NetName=3.3V Pin=C14-2
+Removed Pin From Net: NetName=3.3V Pin=C15-2
+Removed Pin From Net: NetName=3.3V Pin=D6-1
+Removed Pin From Net: NetName=3.3V Pin=IC1-2
+Removed Pin From Net: NetName=3.3V Pin=IC1-4
+Removed Pin From Net: NetName=3.3V Pin=J1-2
+Removed Pin From Net: NetName=3.3V Pin=J3-6
+Removed Pin From Net: NetName=3.3V Pin=J3-20
+Removed Pin From Net: NetName=3.3V Pin=R6-2
+Removed Pin From Net: NetName=3.3V Pin=R16-1
+Removed Pin From Net: NetName=3.3V Pin=R17-2
+Removed Pin From Net: NetName=3.3V Pin=R18-1
+Removed Pin From Net: NetName=3.3V Pin=R19-1
+Removed Pin From Net: NetName=3.3V Pin=R20-1
+Removed Pin From Net: NetName=3.3V Pin=R21-1
+Removed Pin From Net: NetName=3.3V Pin=R22-1
+Removed Pin From Net: NetName=3.3V Pin=R25-1
+Removed Pin From Net: NetName=3.3V Pin=R26-1
+Removed Pin From Net: NetName=3.3V Pin=R27-1
+Removed Pin From Net: NetName=3.3V Pin=R28-1
+Removed Pin From Net: NetName=3.3V Pin=R29-1
+Removed Pin From Net: NetName=3.3V Pin=R30-1
+Removed Pin From Net: NetName=3.3V Pin=R32-2
+Removed Pin From Net: NetName=3.3V Pin=R33-2
+Removed Pin From Net: NetName=3.3V Pin=R34-2
+Removed Pin From Net: NetName=3.3V Pin=R35-2
+Removed Pin From Net: NetName=3.3V Pin=TP3-TP1
+Change Component Description : Designator=J3 Old Description=28-Pin, 16KB Flash, 4KB RAM, 12 MIPS, nanoWatt New Description=28-Pin, 16KB Flash, 4KB RAM, 12 MIPS, nanoWatt | Microchip Technology Inc. PIC18F24J11-I/SP
+Change Net Name : Old Net Name=3.3V New Net Name=GND

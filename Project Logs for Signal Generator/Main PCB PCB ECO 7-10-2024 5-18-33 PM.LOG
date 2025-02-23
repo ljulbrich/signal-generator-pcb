@@ -1,0 +1,85 @@
+Removed Pin From Net: NetName=-12 Pin=IC4-4
+Removed Pin From Net: NetName=+12 Pin=IC4-8
+Removed Pin From Net: NetName=-12 Pin=IC9-4
+Removed Pin From Net: NetName=+12 Pin=IC9-8
+Removed Pin From Net: NetName=GND Pin=IC10-3
+Removed Pin From Net: NetName=-12 Pin=IC10-4
+Removed Pin From Net: NetName=+12 Pin=IC10-8
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Member From Class: ClassName=Oscillator Member=IC7
+Removed Member From Class: ClassName=Oscillator Member=IC9
+Removed Member From Class: ClassName=Oscillator Member=IC10
+Removed Member From Class: ClassName=Oscillator Member=R9
+Removed Member From Class: ClassName=Oscillator Member=R10
+Removed Member From Class: ClassName=Oscillator Member=R11
+Removed Member From Class: ClassName=Oscillator Member=R12
+Removed Member From Class: ClassName=Oscillator Member=R13
+Removed Member From Class: ClassName=Oscillator Member=R14
+Removed Member From Class: ClassName=Oscillator Member=R15
+Change Component Designator: OldDesignator=IC7 NewDesignator=IC4
+Added Component: Designator=IC7(ANALOG SOT-23-8 RJ-8)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.analog.com/media/en/technical-documentation/data-sheets/AD5160.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/analog-devices-inc/AD5160BRJZ100-R2/AD5160BRJZ100-R2CT-ND/751230"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "SPI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "3/06/2024 8:26:31 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Analog Devices Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Type"; Value = "Volatile"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Taps"; Value = "256"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "SOT-23-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "AD5160BRJZ100-R2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "39"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.68"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance (Ohms)"; Value = "100k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance - Wiper (Ohms) (Typ)"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "SOT-23-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "AD5160BRJZ100-R2CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = "Linear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient (Typ)"; Value = "45ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±15%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "2.7V ~ 5.5V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC5-5
+Added Pin To Net: NetName=+5 Pin=IC7-2
+Added Pin To Net: NetName=GND Pin=IC7-3
+Added Pin To Net: NetName=NetIC11_4 Pin=IC7-4
+Added Pin To Net: NetName=RA3 Pin=IC7-5
+Added Pin To Net: NetName=RA2 Pin=IC7-6
+Change Net Name : Old Net Name=NetIC11_4 New Net Name=NetIC7_4
+Added Pin To Net: NetName=DPOT A FB Pin=IC5-2
+Added Pin To Net: NetName=DPOT A FB Pin=IC7-1
+Added Net: Name=DPOT A FB
+Added Pin To Net: NetName=DPOT A IN Pin=IC4-1
+Added Pin To Net: NetName=DPOT A IN Pin=IC4-2
+Added Pin To Net: NetName=DPOT A IN Pin=IC7-7
+Added Net: Name=DPOT A IN
+Added Pin To Net: NetName=DPOT A OUT Pin=IC5-1
+Added Pin To Net: NetName=DPOT A OUT Pin=IC5-7
+Added Pin To Net: NetName=DPOT A OUT Pin=IC7-8
+Added Pin To Net: NetName=DPOT A OUT Pin=IC11-8
+Added Pin To Net: NetName=DPOT A OUT Pin=J5-1
+Added Pin To Net: NetName=DPOT A OUT Pin=J6-1
+Added Net: Name=DPOT A OUT
+Added Pin To Net: NetName=DPOT B FB Pin=IC5-6
+Added Pin To Net: NetName=DPOT B FB Pin=IC11-1
+Added Net: Name=DPOT B FB
+Added Pin To Net: NetName=DPOT B IN Pin=IC4-6
+Added Pin To Net: NetName=DPOT B IN Pin=IC4-7
+Added Pin To Net: NetName=DPOT B IN Pin=IC11-7
+Added Net: Name=DPOT B IN
+Added Pin To Net: NetName=OSC A + Pin=IC4-3
+Added Pin To Net: NetName=OSC A + Pin=IC6-1
+Added Net: Name=OSC A +
+Added Pin To Net: NetName=OSC B + Pin=IC4-5
+Added Pin To Net: NetName=OSC B + Pin=IC8-1
+Added Net: Name=OSC B +
+Added Member To Class: ClassName=Interface Member=Component IC7 AD5160BRJZ100-R2

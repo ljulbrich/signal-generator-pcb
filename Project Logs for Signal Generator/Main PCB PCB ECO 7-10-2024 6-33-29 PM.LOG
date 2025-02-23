@@ -1,0 +1,101 @@
+Removed Pin From Net: NetName=NetIC7_4 Pin=J1-5
+Removed Pin From Net: NetName=Y- Pin=J1-6
+Removed Pin From Net: NetName=Y+ Pin=J1-7
+Removed Pin From Net: NetName=+12 Pin=J1-8
+Removed Pin From Net: NetName=-12 Pin=J1-9
+Removed Pin From Net: NetName=+3.3 Pin=J1-10
+Removed Pin From Net: NetName=GND Pin=J1-11
+Removed Pin From Net: NetName=GND Pin=J1-12
+Removed Pin From Net: NetName=GND Pin=P2-2
+Removed Pin From Net: NetName=+3.3 Pin=R5-2
+Removed Member From Class: ClassName=Power management Member=J1
+Removed Member From Class: ClassName=PIC Member=P2
+Removed Member From Class: ClassName=PIC Member=R5
+Change Component Footprint: Designator=C19 Old Footprint=CAP ALSMD 4.3MM H5.4MM New Footprint=CAP TH ALUM ELEC D4.00mm S1.50mm H6.00mm
+Change Component Footprint: Designator=C20 Old Footprint=CAP ALSMD 4.3MM H5.4MM New Footprint=CAP TH ALUM ELEC D4.00mm S1.50mm H6.00mm
+Change Component Comment : Designator=C19 Old Comment=1 µF New Comment=1µF
+Change Component Comment : Designator=C20 Old Comment=4.7 µF New Comment=4.7µF
+Change component parameters: Designator = "C19" ("C19"); Footprint = "CAP ALSMD 4.3MM H5.4MM"; UniqueID = "\ZLUHKGOH" ("\ZLUHKGOH")
+Change component parameters (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink1url"; Value = "http://nichicon-us.com/english/products/pdfs/e-umf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink2url"; Value = "http://digikey.com/product-detail/en/nichicon/UMF1V010MDD/493-15541-ND/2598666"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "Radial, Can"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.236" (6.00mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "5 Ohms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "lastupdated"; Value = "6/09/2020 1:48:30 AM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Spacing"; Value = "0.059" (1.50mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifetime @ Temp."; Value = "1000 Hrs @ 105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "manufacturer"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "Radial, Can"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "UMF1V010MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partid"; Value = "23219"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarization"; Value = "Polar"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "price"; Value = "0.42"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current @ High Frequency"; Value = "50mA @ 100kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current @ Low Frequency"; Value = "25mA @ 120Hz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "series"; Value = "UMF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.157" Dia (4.00mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "493-15541-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "1µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "35V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20" ("C20"); Footprint = "CAP ALSMD 4.3MM H5.4MM"; UniqueID = "\MXAZVNWO" ("\MXAZVNWO")
+Change component parameters (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "4.7µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink1url"; Value = "http://nichicon-us.com/english/products/pdfs/e-umf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink2url"; Value = "http://digikey.com/product-detail/en/nichicon/UMF1V4R7MDD/493-15545-ND/2598673"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "Radial, Can"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.236" (6.00mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "5 Ohms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "lastupdated"; Value = "6/09/2020 1:48:30 AM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Spacing"; Value = "0.059" (1.50mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifetime @ Temp."; Value = "1000 Hrs @ 105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "manufacturer"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "Radial, Can"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "UMF1V4R7MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partid"; Value = "23153"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarization"; Value = "Polar"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "price"; Value = "0.42"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current @ High Frequency"; Value = "50mA @ 100kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current @ Low Frequency"; Value = "25mA @ 120Hz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "series"; Value = "UMF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.157" Dia (4.00mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "493-15545-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "4.7µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "35V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=A1-10
+Change Net Name : Old Net Name=+3.3 New Net Name=TP3
+Change Net Name : Old Net Name=+12 New Net Name=TP5
+Change Net Name : Old Net Name=-12 New Net Name=TP4
+Change Net Name : Old Net Name=GND New Net Name=TP2
+Change Net Name : Old Net Name=NetIC7_4 New Net Name=TP8
+Change Net Name : Old Net Name=Y+ New Net Name=TP6
+Change Net Name : Old Net Name=Y- New Net Name=TP7
+Added Pin To Net: NetName=TP1 Pin=IC2-3
+Added Net: Name=TP1
+Added Pin To Net: NetName=TP9 Pin=T1-4
+Added Net: Name=TP9
+Added Pin To Net: NetName=TP10 Pin=T1-1
+Added Net: Name=TP10
+Added Member To Class: ClassName=Oscillator Member=Component IC4 LM2904DR
+Added Member To Class: ClassName=Interface Member=Component IC7 AD5160BRJZ100-R2

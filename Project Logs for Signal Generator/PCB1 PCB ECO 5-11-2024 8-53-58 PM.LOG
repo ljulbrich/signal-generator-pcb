@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=DPOT A OUT Pin=IC5-7
+Removed Pin From Net: NetName=DPOT A OUT Pin=IC11-8
+Removed Pin From Net: NetName=DPOT A OUT Pin=J6-1
+Change Component Designator: OldDesignator=+12V NewDesignator=D7
+Change Component Designator: OldDesignator=-12V NewDesignator=D10
+Change Component Designator: OldDesignator=3.3V NewDesignator=D6
+Change Component Designator: OldDesignator=5V NewDesignator=D11
+Change Component Designator: OldDesignator=6.5V NewDesignator=D12
+Change Component Designator: OldDesignator=VCC NewDesignator=D5
+Added Pin To Net: NetName=DPOT B OUT Pin=IC5-7
+Added Pin To Net: NetName=DPOT B OUT Pin=IC11-8
+Added Pin To Net: NetName=DPOT B OUT Pin=J6-1
+Added Net: Name=DPOT B OUT

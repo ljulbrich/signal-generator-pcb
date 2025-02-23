@@ -1,0 +1,11 @@
+Change Component Description : Designator=J3 Old Description=28-Pin, 16KB Flash, 4KB RAM, 12 MIPS, nanoWatt New Description=28-Pin, 16KB Flash, 4KB RAM, 12 MIPS, nanoWatt | Microchip Technology Inc. PIC18F24J11-I/SP
+Change Net Name : Old Net Name=+3.3 New Net Name=GND
+Added Class: Name=X_N
+Added Class: Name=X_P
+Added Class: Name=Y_N
+Added Class: Name=Y_P
+Added Room: Name=Interface
+Added Room: Name=Oscillator
+Added Room: Name=PIC
+Added Room: Name=Power management
+Added Room: Name=Shift register map

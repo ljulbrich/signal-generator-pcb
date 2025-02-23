@@ -1,0 +1,7 @@
+Component Rule Check Report for : C:\Users\Jasper\Desktop\Electronic design\signal-generator-pcb\Signal Generator.SCHLIB
+
+
+Name                Errors
+------------------------------------------------------------------
+V7806-1000-SMT-TR   (Missing Pin Number In Sequence : 2,3,4,8 [1..10]) 
+TPS76350DBVR        (Missing Pin Number In Sequence : 4 [1..5]) 
